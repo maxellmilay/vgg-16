@@ -8,7 +8,7 @@
 
 * Accuracy peaked at 77% due to physical machine constraints
 
-### Loss
+### Sparse Categorical Cross-Entropy Loss
 
 ![Model Loss](./images/vgg_loss.png)
 
