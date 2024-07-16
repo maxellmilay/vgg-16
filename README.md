@@ -4,13 +4,9 @@
 
 * initially contained 16 weight layers
 
-## Model Architecture
-
-![Model Architecture](./images//model_architecture.png)
-
 ## Results
 
-* Accuracy peaked at 77% due to machine constraints
+* Accuracy peaked at 77% due to physical machine constraints
 
 ### Loss
 
@@ -19,3 +15,8 @@
 ### Accuracy
 
 ![Model Accuracy](./images/vgg_accuracy.png)
+
+## Model Architecture
+
+![Model Architecture](./images//model_architecture.png)
+
