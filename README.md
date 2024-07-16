@@ -7,3 +7,15 @@
 ## Model Architecture
 
 ![Model Architecture](./images//model_architecture.png)
+
+## Results
+
+* Accuracy peaked at 77% due to machine constraints
+
+### Loss
+
+![Model Loss](./images/vgg_loss.png)
+
+### Accuracy
+
+![Model Accuracy](./images/vgg_accuracy.png)
